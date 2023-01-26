@@ -1,7 +1,7 @@
 ﻿#include <Novice.h>
 #include "Vec2.h"
 
-const char* kWindowTitle = "学籍番号";
+const char* kWindowTitle = "MT2_10_00_basic";
 
 // Windowsアプリでのエントリーポイント(main関数)
 int WINAPI WinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPSTR lpCmdLine, _In_ int nShowCmd) {
